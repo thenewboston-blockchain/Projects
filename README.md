@@ -4,6 +4,18 @@
 
 ## Table of Contents
 
-- [Contributing](#contributing)
+- [Overview](#overview)
+- [How to Submit a Proposal](#how-to-submit-a-proposal)
+- [Build a Team](#build-a-team)
+- [Funding](#funding)
+- [Roadmap](#roadmap)
 
-## Contributing
+## Overview
+
+## How to Submit a Proposal
+
+## Build a Team
+
+## Funding
+
+## Roadmap
