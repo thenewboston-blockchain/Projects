@@ -43,5 +43,3 @@ In your proposal you will submit the funds requested along with a timeline for t
 proposal, we can collaborate on a roadmap including a set timeline with designated check-in dates. On each of these 
 dates you will be responsible for providing an update on the current status of your project. If the project is going 
 well and has not been abandoned, we will release the funds to your account.
-
-## Roadmap
