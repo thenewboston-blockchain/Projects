@@ -26,10 +26,6 @@ As project manager, you will be responsible for the following.
 - Meet checkpoints according to your submitted roadmap timeline
 - Maintain an active and happy team
 
-## How to Submit a Proposal
-
-[TODO]
-
 ## Build a Team
 
 As project manager, you can choose to submit either an individual or team project proposal. If your project requires a 
@@ -43,3 +39,18 @@ In your proposal you will submit the funds requested along with a timeline for t
 proposal, we can collaborate on a roadmap including a set timeline with designated check-in dates. On each of these 
 dates you will be responsible for providing an update on the current status of your project. If the project is going 
 well and has not been abandoned, we will release the funds to your account.
+
+## How to Submit a Proposal
+
+[Click here to submit a proposal.](https://github.com/thenewboston-developers/Project-Proposals/issues/new?assignees=&labels=&template=project-proposal.md&title=Project+Proposal)
+
+Please fill out all required fields. Feel free to include any additional information as well!
+
+## What Next?
+
+The team will review your proposal within 2-3 days. Please check back often as there may be additional questions from 
+the team on your proposal. If approved the proposal will be labeled "Pending Repository". You will be required to leave 
+a comment with the URL of the project repository before final approval.
+
+After repository URL has been submitted, the proposal will be labeled "Approved" and final terms will be merged into 
+this repository.
