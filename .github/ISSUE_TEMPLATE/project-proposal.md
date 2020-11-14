@@ -13,10 +13,10 @@ assignees: ''
 #### What problem does it solve?
 [ANSWER HERE]
 
-#### Who is it for?
+#### Who is the target market?
 [ANSWER HERE]
 
-#### What is the opportunity?
+#### What do you think is the opportunity of this project?
 [ANSWER HERE]
 
 #### How does it integrate with thenewboston digital currency work?
