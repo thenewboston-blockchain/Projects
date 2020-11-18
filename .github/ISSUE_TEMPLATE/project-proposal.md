@@ -37,8 +37,11 @@ assignees: ''
 #### What risks should you plan to manage?
 [ANSWER HERE]
 
-#### How many total coins are you requesting?
-[ANSWER HERE]
+#### What are your milestones?
+<!--- You are free to create your own milestones and any number of milestones. Dates can be approximate. --->
+- Milestone 1 : UX/UI ready - 1st Jan 2021
+- Milestone 2 : Front-end ready - 20th Jan 2021
+- etc..
 
 #### GitHub usernames, slack names and roles of all team members:
 - buckyroberts | @Bucky | Lead Developer
