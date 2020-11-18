@@ -6,10 +6,10 @@
 
 - [Overview](#overview)
 - [What You Will Be Responsible For](#what-you-will-be-responsible-for)
-- [How to Submit a Proposal](#how-to-submit-a-proposal)
 - [Build a Team](#build-a-team)
 - [Funding](#funding)
-- [Roadmap](#roadmap)
+- [How to Submit a Proposal](#how-to-submit-a-proposal)
+- [What Next](#what-next)
 
 ## Overview
 
@@ -46,7 +46,7 @@ well and has not been abandoned, we will release the funds to your account.
 
 Please fill out all required fields. Feel free to include any additional information as well!
 
-## What Next?
+## What Next
 
 The team will review your proposal within 2-3 days. Please check back often as there may be additional questions from 
 the team on your proposal. If approved the proposal will be labeled "Pending Repository". You will be required to leave 
