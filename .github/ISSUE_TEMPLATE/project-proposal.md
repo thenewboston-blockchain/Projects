@@ -40,7 +40,7 @@ assignees: ''
 #### How many total coins are you requesting?
 [ANSWER HERE]
 
-GitHub usernames and roles of all team members:
-- buckyroberts - Lead Developer
-- kristykjlee - Lead Design
+#### GitHub usernames, slack name and roles of all team members:
+- buckyroberts | @Bucky | Lead Developer
+- kristykjlee | @Kristy KJ | Lead Design
 - etc...
