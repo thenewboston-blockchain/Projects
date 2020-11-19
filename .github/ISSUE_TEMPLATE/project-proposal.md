@@ -44,6 +44,8 @@ assignees: ''
 - etc..
 
 #### GitHub usernames, slack names and roles of all team members:
+<!--- Add atleast your details if you don't have your team yet. Join thenewboston slack if you have not already. --->
+
 - buckyroberts | @Bucky | Lead Developer
 - kristykjlee | @Kristy KJ | Lead Design
 - etc...
