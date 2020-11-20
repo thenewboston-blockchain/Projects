@@ -43,9 +43,11 @@ assignees: ''
 - Milestone 2 : Front-end ready - 20th Jan 2021
 - etc..
 
-#### GitHub usernames, slack names and roles of all team members:
-<!--- Add atleast your details if you don't have your team yet. Join thenewboston slack if you have not already. --->
+#### Tell us about your team members:
+<!--- E.g: @Bucky | buckyroberts | Team Lead --->
+<!--- Add atleast your details if you don't have your team yet. --->
+<!--- Please join thenewboston slack: https://join.slack.com/t/thenewboston/shared_invite/zt-j7j4ie92-ADy7GL3KAzCwSlaAVoDKLw --->
 
-- buckyroberts | @Bucky | Lead Developer
-- kristykjlee | @Kristy KJ | Lead Design
-- etc...
+#### List the roles of any additional team members you would be looking for?
+[ANSWER HERE]
+
