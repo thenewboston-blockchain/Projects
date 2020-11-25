@@ -5,4 +5,4 @@
 |   2  | OMG_#0001      | charliea21    |     -    | Developer |    Yes    |
 
 #### Looking for more teammates?
-No
+Yes
