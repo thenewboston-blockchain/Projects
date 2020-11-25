@@ -1,6 +1,11 @@
 #### Project Repository
 https://github.com/mrbusysky/keysign
 
+#### Issue 
+https://github.com/thenewboston-developers/Project-Proposals/issues/6
+
+
+
 #### How would you describe your project?
 Chrome/firefox extension for transaction signing.
 
