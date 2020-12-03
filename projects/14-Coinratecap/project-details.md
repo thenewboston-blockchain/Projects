@@ -1,5 +1,5 @@
 #### Project Repository
-https://github.com/Francaolisa/Coinratecap
+https://github.com/coinratecap
 
 #### Issue
 https://github.com/thenewboston-developers/Project-Proposals/issues/14
