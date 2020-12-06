@@ -1,6 +1,6 @@
 ---
 name: Idea Only Proposal
-about: Idea only Proposal
+about: Idea only, author is not ready to work on it.
 title: NAME_OF_YOUR_IDEA
 labels: Idea Only
 assignees: ''
