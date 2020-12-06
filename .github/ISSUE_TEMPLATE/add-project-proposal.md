@@ -1,8 +1,8 @@
 ---
 name: Add Project Proposal
 about: Propose a project or app for funding.
-title: Project Proposal
-labels: ''
+title: NAME_OF_YOUR_PROJECT
+labels: Project
 assignees: ''
 
 ---
