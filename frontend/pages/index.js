@@ -1,6 +1,11 @@
 import Head from 'next/head';
+import styled from 'styled-components';
 
 import styles from '../styles/Home.module.css';
+
+const Title = styled.h1`
+  color: seagreen;
+`;
 
 export default function Home() {
   return (
@@ -14,6 +19,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
+        <Title>Hello World From Styled Components</Title>
 
         <p className={styles.description}>
           Get started by editing <code className={styles.code}>pages/index.js</code>
