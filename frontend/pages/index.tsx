@@ -1,11 +1,7 @@
 import Head from 'next/head';
-import styled from 'styled-components';
 
+import PostList from '../components/test';
 import styles from '../styles/Home.module.css';
-
-const Title = styled.h1`
-  color: seagreen;
-`;
 
 const Home: React.FC = () => (
   <div className={styles.container}>
@@ -14,11 +10,12 @@ const Home: React.FC = () => (
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
+    <PostList />
+
     <main className={styles.main}>
       <h1 className={styles.title}>
         Welcome to <a href="https://nextjs.org">Next.js!</a>
       </h1>
-      <Title>Hello World From Styled Components</Title>
 
       <p className={styles.description}>
         Get started by editing <code className={styles.code}>pages/index.js</code>
