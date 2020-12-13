@@ -10,7 +10,7 @@ const Home: React.FC = () => (
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
-    <HelloWorld />
+    {/* <HelloWorld /> */}
 
     <main className={styles.main}>
       <h1 className={styles.title}>
