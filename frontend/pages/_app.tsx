@@ -4,10 +4,7 @@ import { ApolloClient, ApolloProvider, InMemoryCache } from '@apollo/client';
 
 const client = new ApolloClient({
   cache: new InMemoryCache(),
-  uri: 'http://localhost:4000/graphql',
-  fetchOptions: {
-    mode: 'no-cors'
-  }
+  uri: 'http://localhost:4000/graphql'
 });
 
 const MyApp = ({ Component, pageProps }) => {
