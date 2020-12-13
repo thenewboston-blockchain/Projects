@@ -1,6 +1,6 @@
 import Head from 'next/head';
 
-import PostList from '../components/test';
+import HelloWorld from '../components/HelloWorld';
 import styles from '../styles/Home.module.css';
 
 const Home: React.FC = () => (
@@ -10,7 +10,7 @@ const Home: React.FC = () => (
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
-    <PostList />
+    <HelloWorld />
 
     <main className={styles.main}>
       <h1 className={styles.title}>
