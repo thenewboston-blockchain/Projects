@@ -1,6 +1,7 @@
 import "reflect-metadata";
 import { createConnection, getConnectionOptions } from "typeorm";
 import express from "express";
+import cors from 'cors';
 import session from "express-session";
 import connectSqlite3 from "connect-sqlite3";
 import { ApolloServer } from "apollo-server-express";
@@ -46,6 +47,11 @@ const SQLiteStore = connectSqlite3(session);
     }),
     context: ({ req, res }) => ({ req, res })
   });
+
+  app.use(cors({
+    origin: true,
+    credentials: true,
+  }));
 
   apolloServer.applyMiddleware({ app, cors: false });
   const port = process.env.PORT || 4000;
