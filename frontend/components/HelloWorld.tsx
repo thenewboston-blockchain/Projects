@@ -3,15 +3,15 @@ import { gql, useQuery } from '@apollo/client';
 const GET_GREETING = gql`
   query {
     profile {
-      id
       name
+      id
     }
   }
 `;
 
 function Hello() {
   const { loading, data } = useQuery(GET_GREETING);
-  console.log(data);
+
   if (loading)
     return (
       <>
