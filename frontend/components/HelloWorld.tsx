@@ -2,7 +2,10 @@ import { gql, useQuery } from '@apollo/client';
 
 const GET_GREETING = gql`
   query {
-    hello
+    profile {
+      id
+      name
+    }
   }
 `;
 
@@ -17,7 +20,9 @@ function Hello() {
     );
   return (
     <>
-      <h1>{data.hello} from my graphql endpoint</h1>
+      {data.profile.map((profile) => (
+        <li key={profile.id}>{profile.name}</li>
+      ))}
     </>
   );
 }
