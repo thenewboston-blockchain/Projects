@@ -10,6 +10,8 @@
 - [Funding](#funding)
 - [How to Submit a Proposal](#how-to-submit-a-proposal)
 - [What Next](#what-next)
+- [Community](#community)
+- [Donate](#donate)
 
 ## Overview
 
@@ -58,4 +60,27 @@ a comment with the URL of the project repository before final approval.
 After repository URL has been submitted, the proposal will be labeled **Approved** and final terms will be merged into 
 this repository.
 
-After the **team formation**, the team leader (or manager) has to provide details of each member of the team. Details include Complete Name, GitHub Username, Slack username, LinkedIn, Role in the team, and the account number where they want to receive payments.
+After the **team formation**, the team leader (or manager) has to provide details of each member of the team. Details include Full Name, GitHub Username, Slack username, LinkedIn, Role in the team, and the account number where they want to receive payments.
+
+## Community
+
+Join the community to stay updated on the most recent developments, project roadmaps, and random discussions about
+completely unrelated topics.
+
+- [thenewboston.com](https://thenewboston.com/)
+- [Slack](https://join.slack.com/t/thenewboston/shared_invite/zt-j7j4ie92-ADy7GL3KAzCwSlaAVoDKLw)
+- [Reddit](https://www.reddit.com/r/thenewboston/)
+- [LinkedIn](https://www.linkedin.com/company/thenewboston-developers/)
+- [Facebook](https://www.facebook.com/TheNewBoston-464114846956315/)
+- [Twitter](https://twitter.com/bucky_roberts)
+- [YouTube](https://www.youtube.com/user/thenewboston)
+
+## Donate
+
+All donations will go to thenewboston to help fund the team to continue to develop the community and create new content.
+
+| Coin                                                       | Address                                                          |
+| ---------------------------------------------------------- | ---------------------------------------------------------------- |
+| ![thenewboston Logo](./src/assets/images/thenewboston.png) | b6e21072b6ba2eae6f78bc3ade17f6a561fa4582d5494a5120617f2027d38797 |
+| ![Bitcoin Logo](./src/assets/images/bitcoin.png)           | 3GZYi3w3BXQfyb868K2phHjrS4i8LooaHh                               |
+| ![Ethereum Logo](./src/assets/images/ethereum.png)         | 0x0E38e2a838F0B20872E5Ff55c82c2EE7509e6d4A                       |
