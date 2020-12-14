@@ -28,6 +28,7 @@ As project manager, you will be responsible for the following.
 - Building your team (we can help with recruiting)
 - Managing all aspects of the project including planning, design, development, etc…
 - Meet checkpoints according to your submitted roadmap timeline
+- Provide weekly progress report
 - Maintain an active and happy team
 
 ## Build a Team
@@ -39,16 +40,13 @@ in the **#recruiting** channel on Slack and our team will help you find a contri
 
 ## Funding
 
-In your project proposal, you will provide the milestones for your project. After reaching each of your milestones you have to request funds by raising an issue. [Click here to Request Fund](https://github.com/thenewboston-developers/Project-Proposals/issues/new?assignees=&labels=Request+Fund&template=request-fund.md&title=%5BFUND%5D+YOUR_PROJECT_NAME+-+MILESTONE+%28milestone+number%29)
-
-You have to provide proof of the completion of that particular milestone in the issue. After verification, it will be labeled with the amount of fund that milestone is going to receive.
-
-The amount of fund the project will receive after the completion of each milestone will be decided by the TNB team depending on how valuable and big the milestone is as well as the quality of work done to achieve that. That means, if your first milestone is getting UI/UX ready then your quality of UI/UX will be taken into consideration for the amount of fund you will receive.
+All the members of approved projects will receive weekly payments with pay per day of 2800 coins.
+More Info: https://thenewboston.com/project-proposals/funding
 
 ## How to Submit a Proposal
 
-[Click here to submit a proposal.](https://github.com/thenewboston-developers/Project-Proposals/issues/new?assignees=&labels=Project&template=add-project-proposal.md&title=NAME_OF_YOUR_PROJECT)
-
+[Click here](https://github.com/thenewboston-developers/Project-Proposals/issues/new?assignees=&labels=Project&template=add-project-proposal.md&title=NAME_OF_YOUR_PROJECT)
+to submit a proposal.
 Please fill out all required fields. Feel free to include any additional information as well!
 
 ## What Next
@@ -59,3 +57,5 @@ a comment with the URL of the project repository before final approval.
 
 After repository URL has been submitted, the proposal will be labeled **Approved** and final terms will be merged into 
 this repository.
+
+After the **team formation**, the team leader (or manager) has to provide details of each member of the team. Details include Complete Name, GitHub Username, Slack username, LinkedIn, Role in the team, and the account number where they want to receive payments.
