@@ -48,7 +48,7 @@ Full Name, Slack Username, GitHub Username, LinkedIn, Role, Team Joining Date, T
 
 [ANSWER HERE]
 
-<!--- Add at least your details if you don't have your team yet. Please join thenewboston slack: https://join.slack.com/t/thenewboston/shared_invite/zt-j7j4ie92-ADy7GL3KAzCwSlaAVoDKLw --->
+<!--- Add at least your details if you don't have your team yet. Put "-" for Team Leaving Date. Please join thenewboston slack: https://join.slack.com/t/thenewboston/shared_invite/zt-j7j4ie92-ADy7GL3KAzCwSlaAVoDKLw --->
 
 #### List the roles of any additional team members you would be looking for?
 [ANSWER HERE]
