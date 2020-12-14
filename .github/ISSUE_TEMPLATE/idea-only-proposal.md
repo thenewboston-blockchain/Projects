@@ -30,3 +30,6 @@ assignees: ''
 
 #### How will you evaluate project success?
 [ANSWER HERE]
+
+
+**By posting this issue, I (author of this issue) allow my project idea to be used by other people for any commercial as well as non-commercial purposes and I'll not be liable for misuse of my idea.**
