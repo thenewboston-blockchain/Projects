@@ -1,7 +1,7 @@
 #### Team Details
 | S.No | Name        |    Slack    | Github     | Linkedin                                     | Role            | Team Lead | Account Number |
 |------|-------------|:-----------:|------------|----------------------------------------------|-----------------|-----------|----------------|
-| 1.   | Nenad Savic | U01GRD6V1KQ | sawicnenad | https://www.linkedin.com/in/nenad-savic-phd/ | Head Of Project |    Yes    |        -       |
+| 1.   | Nenad Savic | sawicnenad  | sawicnenad | https://www.linkedin.com/in/nenad-savic-phd/ | Head Of Project |    Yes    |        -       |
 
 
 
