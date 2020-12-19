@@ -1,4 +1,7 @@
 import '../scss/globals.scss';
+import '@shopify/polaris/dist/styles.css';
+
+import { AppProvider } from '@shopify/polaris';
 
 // import { ApolloClient, ApolloProvider, InMemoryCache } from '@apollo/client';
 
@@ -16,7 +19,11 @@ import '../scss/globals.scss';
 // };
 
 const MyApp = ({ Component, pageProps }) => {
-  return <Component {...pageProps} />;
+  return (
+    <AppProvider>
+      <Component {...pageProps} />;
+    </AppProvider>
+  );
 };
 
 export default MyApp;
