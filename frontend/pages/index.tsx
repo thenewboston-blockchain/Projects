@@ -1,7 +1,6 @@
 import Head from 'next/head';
 
-import HelloWorld from '../components/HelloWorld';
-import styles from '../styles/Home.module.css';
+import styles from '../scss/Home.module.scss';
 
 const Home: React.FC = () => (
   <div className={styles.container}>
@@ -9,8 +8,6 @@ const Home: React.FC = () => (
       <title>Create Next App</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
-
-    <HelloWorld />
 
     <main className={styles.main}>
       <h1 className={styles.title}>
