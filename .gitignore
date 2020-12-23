@@ -1,9 +1,6 @@
 # backend directory
 /backend/dist
 /backend/node_modules
-/node_modules
-/dist
-.idea
 # Logs
 logs
 *.log
