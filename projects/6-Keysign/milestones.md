@@ -13,4 +13,17 @@
 
 #### Website
 
-- Coming soon!
+- Scope 
+- Design
+- Page/Development - Landing
+- Page/Development - Login
+- Page/Development - Main wallet
+- Page/Development - Merchant
+- Page/Development - Account
+- Page/Development - Download
+- Page/Development - About us
+- Page/Development - TOS
+- Page/Development - Privacy
+- Page/Development - Contact
+- Page/Development - Documentation
+- More to possibly be scoped
