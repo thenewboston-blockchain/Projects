@@ -1,0 +1,3 @@
+- Started working on TNB Faucet
+- Deployed test-net
+- Prepared UI (https://tnb-faucet.web.app/)

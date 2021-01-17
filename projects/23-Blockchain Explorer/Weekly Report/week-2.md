@@ -1,0 +1,3 @@
+- Prepared content map ([Figma link](https://www.figma.com/file/edRRJdNLPf25Gd8fz9UyZL/SiteMap?node-id=0%3A1))
+- Wrote APIs to store blocks (still in dev)
+- Setting up development network (almost done)
