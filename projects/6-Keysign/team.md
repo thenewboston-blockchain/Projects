@@ -9,8 +9,8 @@
 |  6  | kevin nim | kevinnim1990 | - | Quality Assurance/Tester/Design consultant | No |a603f51b8995cd41944fda06adc6f7a5f10cf08d5acfbae7ebf734c30ca8e64f|
 |  7  | John Midas | jonmidas | - | Designer | No |f413b83ac4ff3de111b4844e3233b204548a43dd1a2b0131afe3def274fbdf22|
 |  8  | fortunee | fortunee | - | Javascript/typescript React Developer | No |bd9ddcd6fb23c0df54b3fd9486546ed0e2529adae95342d7db0716bee32adfe0|
-|  9  | Afolayan Stephen | dee-y | - | Designer     | No |e8586057003858fa44a634690424f65ce70bbc0c4651b412378b3fffea61f680|
-
+|  9  | Afolayan Stephen | dee-y | - | Designer | No |e8586057003858fa44a634690424f65ce70bbc0c4651b412378b3fffea61f680|
+|  10  | Peter Iyke | neyroh | - | Designer | No |24b0277481f1d34056199e1db6d7e30799fd1ac9eb8d37c2328b125149f2d8a4|
 
 #### Looking for more teammates?
-Yes
+NO
