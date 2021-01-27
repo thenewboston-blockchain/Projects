@@ -1,0 +1,3 @@
+- Core logic for faucet verification completed
+- Worked on marketing TNBFaucet
+- Started working on integrating frontend and backend
