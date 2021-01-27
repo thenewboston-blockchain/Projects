@@ -1,0 +1,2 @@
+- Created CI/CD pipelines for the backend, as well as infrastructure as code for the existing planned resources (https://github.com/DiddyApp/diddy-backend)
+- Got the initial designs for some of the screens - and they look amazing (https://www.figma.com/file/ZfiyVUuXM65NLSXE9PP8SA/DIDDY-APP?node-id=0%3A1)
