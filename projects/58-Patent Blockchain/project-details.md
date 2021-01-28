@@ -2,7 +2,7 @@
 https://github.com/Ishaan28malik/Patent-Blockchain
 
 #### Issue
-https://github.com/Ishaan28malik/Patent-Blockchain/issues/14
+https://github.com/thenewboston-developers/Project-Proposals/issues/93
 
 
 #### How would you describe your project?
