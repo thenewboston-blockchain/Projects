@@ -6,7 +6,7 @@ https://github.com/thenewboston-developers/Project-Proposals/issues/17
 
 #### Ideation by [Atin](https://github.com/atin)
 
-#### Execution by [arun-nalla](https://github.com/arun-nalla)
+#### Execution by [Avinash](https://github.com/avinashupadhya99)
 
 
 #### How would you describe your project?
