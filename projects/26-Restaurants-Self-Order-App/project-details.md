@@ -1,5 +1,5 @@
 #### Project Repository
-https://github.com/yaya-BL/Restaurants_self-order_app
+https://github.com/Restaurants-Self-Order
 
 #### Issue
 https://github.com/thenewboston-developers/Project-Proposals/issues/26
