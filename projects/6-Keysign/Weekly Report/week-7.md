@@ -6,8 +6,11 @@
 * More scope has been reworked as we go along as this is cutting edge development.
 
 https://www.figma.com/file/hAG7OBrYfqgNTIWhb1wl2k/Keysign-Account.?node-id=1%3A16&frame-preset-name=MacBook%20Pro
+
 https://www.figma.com/file/wWjtQFSZArtnxY3cphMi7o/Keysign?node-id=493%3A0
+
 https://www.figma.com/file/wWjtQFSZArtnxY3cphMi7o/Keysign?node-id=500%3A80
+
 https://www.figma.com/file/wWjtQFSZArtnxY3cphMi7o/Keysign?node-id=500%3A196
 
 ### All of these are not final designs
