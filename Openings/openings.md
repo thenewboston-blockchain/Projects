@@ -41,3 +41,27 @@ ___
 #### Pay
 - 2,800 coins/day
 ___
+
+## OPENING #3
+#### Project name : TNB Forum
+- A forum for all discussions regarding tnb crypto and payment for top contributors in tnb
+#### Opening Title: UI/UX designer
+#### Short Description: have a good experience in UI/UX standards
+#### Responsibilities:
+- Design the web interfaces using Figma
+- Design pages from scratch based on requirements
+- Coordinate and take notes from other teammates
+
+#### Required Skills
+- Using Figma is a must
+
+#### Good to know
+- Knowledge of design systems
+- Knowledge of React is preferred
+
+#### Contact to Apply
+- Slack Name: @Avinash Upadhyaya
+
+#### Pay
+- 2,800 coins/day
+___
