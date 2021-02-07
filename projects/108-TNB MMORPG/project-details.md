@@ -1,3 +1,11 @@
+#### Project Organisation
+
+https://github.com/TNB-MMO
+
+#### Issue
+
+https://github.com/thenewboston-developers/Project-Proposals/issues/108
+
 #### How would you describe your project?
 TNB MMORPG
 #### What problem does it solve?
