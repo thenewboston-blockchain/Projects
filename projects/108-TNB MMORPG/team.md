@@ -6,3 +6,12 @@
 
 #### Looking for more teammates?
 YES
+
+#### List the roles of any additional team members this project is looking for?
+- Game Designers
+- 2D / 3D Artists
+- Animators
+- Programmers / Developers (Unity / UE4)
+- Level Designers
+- Sound Engineers
+- Testers / QA
