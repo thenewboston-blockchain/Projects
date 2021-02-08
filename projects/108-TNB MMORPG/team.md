@@ -8,6 +8,7 @@
 YES
 
 #### List the roles of any additional team members this project is looking for?
+- Graphic Designer
 - Game Designers
 - 2D / 3D Artists
 - Animators
