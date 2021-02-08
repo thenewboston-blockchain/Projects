@@ -3,6 +3,7 @@
 |:----:|:-----:|:---------:|:--------:|:--------------------------:|-----------|:--------------------------------------------------------------:|
 |  1  | MrSky | mrbusysky | - | Project lead/system architect/designer | Yes |fe06754d2dbf23509e975809e9023b620509c1e6618472f16c9659f59e940337|
 |  2  | Zino Adidi | zinoadidi | - | Game Developer / Development manager / Lead Recruiter | No |e6877a1a3f9bfbe313c7d2022675c6cf409fcf4eb425793acec4f2d69cb86fcb|
+|  3  | slackname | gushinmikhailgushinmikhail | - | Concept artist | No |wallet address|
 
 #### Looking for more teammates?
 YES
