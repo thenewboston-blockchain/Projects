@@ -10,6 +10,7 @@
 YES
 
 #### List the roles of any additional team members this project is looking for?
+- Writers / storyboard artists
 - Graphic Designer
 - Game Designers
 - 2D / 3D Artists
