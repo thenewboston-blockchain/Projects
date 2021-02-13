@@ -1,0 +1,4 @@
+- Explored various forum tools that can be used
+- Decided to go with `nodebb` and make necessary changes on top of it
+- Explored [SourceCred](https://sourcecred.io/) for the reward system. (Still need to explore it's connection with nodebb and tnb) (Or awards plugin for nodebb)
+- Deployed a test version of nodebb on a VPS (http://52.188.113.221) (It might be down as I am testing stuff with this)
