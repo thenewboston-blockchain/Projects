@@ -23,25 +23,6 @@
 ___
 
 
-## OPENING #2
-#### Project name : Restaurants-Self-Order-App
-- Ordering food and drinks from restaurants and paying with TNB crypto
-#### Opening Title: UI/UX designer
-#### Short Description: have a good experience in UI/UX standards
-#### Responsibilities:
-- Design the mobile app interfaces using Figma
-- Coordinate and take notes from other teammates
-
-#### Required Skills
-- Using Figma is a must
-
-#### Contact to Apply
-- Slack Name: @Yahya
-
-#### Pay
-- 2,800 coins/day
-___
-
 ## OPENING #3
 #### Project name : TNB Forum
 - A forum for all discussions regarding tnb crypto and payment for top contributors in tnb
