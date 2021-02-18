@@ -1,3 +1,9 @@
+#### Project Organisation
+https://github.com/tnbCrow
+
+#### Issue
+https://github.com/thenewboston-developers/Project-Proposals/issues/129
+
 #### How would you describe your project?
 An escrow web-application for thenewboston. This application will act as a bridge between the escrow providers, the buyers, and the sellers.
 
