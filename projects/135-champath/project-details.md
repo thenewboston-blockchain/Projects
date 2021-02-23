@@ -1,3 +1,11 @@
+#### Project Repository:
+
+https://github.com/champath/guidelines
+
+#### Issue
+
+https://github.com/thenewboston-developers/Project-Proposals/issues/135
+
 #### How would you describe your project?
 This will be a curator/aggregator of resources that can be used to follow a certain career path (e.g. JavaScript full-stack developer). The actual form it will take is a GitHub organization with multiple repositories divided by programming language/tech stack, with multiple divisions under each repository (e.g. the .NET repository could include web development, cloud development, machine learning, etc.). The resources will be arranged in a way that makes sense for a new learner.
 
