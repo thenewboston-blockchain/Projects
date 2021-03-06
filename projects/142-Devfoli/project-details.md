@@ -1,9 +1,9 @@
 
 #### Repository
-https://github.com/Devfoli
+https://github.com/devfolo
 
 #### Issue
-https://github.com/thenewboston-developers/Project-Proposals/issues/142
+https://github.com/thenewboston-developers/Project-Proposals/issues/154
 
 #### How would you describe your project?
 [Devfoli is a  kind of minimalistic social media/portfolio site for developers and TNBC traders to interact on, do projects and receive payment in TNBC from their customers who request their services]
