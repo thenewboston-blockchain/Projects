@@ -1,6 +1,6 @@
 #### Project Repository:
 
-https://github.com/champath/guidelines
+https://github.com/geekpository/guidelines
 
 #### Issue
 
@@ -48,6 +48,7 @@ Number of stars/forks/watches on each repository.
 #### Tell us about your team members:
 Full Name, Slack Username, GitHub Username, LinkedIn, Role, Team Joining Date, Team Leaving Date, Account number
 Mircea Teodor Oprea, Mircea Teodor Oprea, Mirch, mircea-oprea, Project Manager, 23.02.2021, -, dc3eb7a93238a4e691817d294c97fa372748807c473130901b71b819032a2faa
+Champath,David Lake,FALSE,@David Lake,@david2023,-,Marketing/Communications Strategist,March 5th 2021,2800,YES,b252890dbae3b781b3e66dc8887d3132741ddebd4207d4e7c181c26bca57fe01
 
 
 #### List the roles of any additional team members you would be looking for?
