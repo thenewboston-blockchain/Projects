@@ -16,13 +16,13 @@
 - Scope 
 - Design
 - Page/Development - Landing
-- Page/Development - Login
-- Page/Development - Main wallet
+- Page/Development - Login ✅ 
+- Page/Development - Dashboard ✅ 
 - Page/Development - Merchant
 - Page/Development - Account
-- Page/Development - Download
-- Page/Development - About us
-- Page/Development - TOS
+- Page/Development - Download ✅ 
+- Page/Development - About us ✅ 
+- Page/Development - TOS ✅ 
 - Page/Development - Privacy
 - Page/Development - Contact
 - Page/Development - Documentation

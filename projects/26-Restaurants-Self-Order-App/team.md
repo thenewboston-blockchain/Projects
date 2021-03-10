@@ -6,7 +6,6 @@
 | 3.   | Dmytro Stekanov       | Dmytro Stekanov       | -    |      -      | QA |    No    |        -       |
 | 4.   | Sazid Ahmed       | Sazid Ahmed       | SazidAhmed    |      -      | Backend |    No    |        -       |
 | 5.   | Osaro Ochuko Adade       | Osaro Ochuko Adade       | -    |      -      | Designer |    No    |        -       |
-| 6.   | Afolayan Stephen       | Afolayan Stephen       | dee-y    |      -      | Designer |    No    |        -       |
 
 
 

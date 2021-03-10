@@ -1,0 +1,17 @@
+- Backend:
+	- Implementing the flake8 for proper styling
+	- Shop registration and varification prototype design 
+	- Model for partner registration 
+	- Prototype design for Staff portal 
+	- ER Diagram of Item with add_ons and user choices on offered items prototype version:1 
+	- ER Diagram of staff portal prototype version:1 
+	
+- Design:
+	- Revamped splash screen 
+	- Revamped onboarding process
+	- Revamped signup process for users
+	- Reveamped Login process for users 
+	- Added finger print login 
+	- Added user default location(s) selector
+	- New hompage design (restaurant )
+	- New hompage design (cafe)
