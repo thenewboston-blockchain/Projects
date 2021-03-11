@@ -19,7 +19,7 @@
 This repository is for project proposals for thenewboston digital currency. Funding will be provided for all projects 
 or apps that adheres to the [Rules & Guidelines](https://thenewboston.com/project-proposals/rules).
 
-**Note**: No fund will be provided just for proposing ideas only.
+**Note**: The Idea Only proposals will receive 3000 coins as a reward after the first weekly report received from the team which is executing that Idea.
 
 **More info**: https://thenewboston.com/project-proposals/overview
 
