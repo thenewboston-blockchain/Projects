@@ -10,45 +10,40 @@ assignees: ''
 #### How would you describe your project?
 ANSWER HERE
 
-#### What problem does it solve?
+#### What problem does this project solve?
 ANSWER HERE
 
 #### Who is the target market?
 ANSWER HERE
 
-#### What do you think is the opportunity of this project?
+#### How will this project benefit the network and/or the community?
 ANSWER HERE
 
-#### How does it integrate with thenewboston digital currency work?
+#### How is this project centered around and integrated with thenewboston?
 ANSWER HERE
 
-#### Are there any competitors?
+#### What is the estimated completion date for this project (rough estimates are acceptable)?
 ANSWER HERE
 
-#### Will you need specific information or advice?
+#### Please include a detailed roadmap for your project below. This must include a list of all milestones where payments will be awarded upon completion of each.
 ANSWER HERE
 
-#### What are your goals and objectives?
-ANSWER HERE
+#### Include any other files and documentation including architectural diagrams, wireframes, research documents, visuals, etc…
+LINKS TO SAMPLE DOCS HERE
 
-#### How will you evaluate project success?
-ANSWER HERE
+#### What is your Discord username?
+DISCORD USERNAME HERE (https://discord.gg/thenewboston)
 
-#### What risks should you plan to manage?
-ANSWER HERE
+#### Please include a detailed breakdown of the first milestone including a list of all quantifiable objectives and estimated coin value of each. Upon completion of the milestone, each objective will be reviewed by thenewboston team and once all objectives have been verified as completed, coins will then be rewarded.
 
-#### What are your milestones?
-<!--- You are free to create your own milestones and any number of milestones. Dates can be approximate. --->
-- Milestone 1 : UX/UI ready - 1st Jan 2021
-- Milestone 2 : Front-end ready - 20th Jan 2021
-- etc..
+#### Milestone Description
+SHORT DESCRIPTION OF MILESTONE HERE
 
-#### Tell us about your team members:
-Full Name, Slack Username, GitHub Username, LinkedIn, Role, Team Joining Date, Team Leaving Date, Account number
+#### Requested Payment Upon Completion
+AMOUNT OF COINS HERE
 
-ANSWER HERE
-
-<!--- Add at least your details if you don't have your team yet. Put "-" for Team Leaving Date. Please join thenewboston slack: https://join.slack.com/t/thenewboston/shared_invite/zt-j7j4ie92-ADy7GL3KAzCwSlaAVoDKLw --->
-
-#### List the roles of any additional team members you would be looking for?
-ANSWER HERE
+| Objective           | Estimated Value (coins)   |
+| ------------------- | ------------------------- |
+| Example objective A | ESTIMATED_AMOUNT_OF_COINS |
+| Example objective B | ESTIMATED_AMOUNT_OF_COINS |
+| Example objective C | ESTIMATED_AMOUNT_OF_COINS |
