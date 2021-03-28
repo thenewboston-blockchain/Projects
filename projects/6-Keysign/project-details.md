@@ -65,3 +65,9 @@ https://github.com/Keysign-Wallet/Project-Proposals/blob/master/projects/6-Keysi
 
 #### Keysign mobile wallet app scope
 https://docs.google.com/document/d/1rVnzk0zbl-wqMCtVpbTlKZBJxrMElcL5nTvpfGsahn0/edit
+
+#### Keysign desktop wallet app scope
+Not currently ready
+
+#### Keysign plugins with connections to merchant services.
+Waiting on memo system
