@@ -30,11 +30,13 @@ ANSWER HERE
 #### Please include a detailed roadmap for your project below. This must include a list of all milestones where payments will be awarded upon completion of each.
 ANSWER HERE
 
-#### Include any other files and documentation including architectural diagrams, wireframes, research documents, visuals, etc…
-LINKS TO SAMPLE DOCS HERE
-
 #### What is your Discord username?
 DISCORD USERNAME HERE (https://discord.gg/thenewboston)
+
+#### Include any additional files and documentation including architectural diagrams, wireframes, research documents, visuals, etc… (optional)
+- OPTIONAL ATTACHMENT HERE
+- OPTIONAL ATTACHMENT HERE
+- OPTIONAL ATTACHMENT HERE
 
 # Milestone Details
 
