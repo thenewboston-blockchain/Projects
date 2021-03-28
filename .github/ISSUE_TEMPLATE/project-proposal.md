@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+## Project Details
+
 #### How would you describe your project?
 ANSWER HERE
 
@@ -34,7 +36,16 @@ LINKS TO SAMPLE DOCS HERE
 #### What is your Discord username?
 DISCORD USERNAME HERE (https://discord.gg/thenewboston)
 
-#### Please include a detailed breakdown of the first milestone including a list of all quantifiable objectives and estimated coin value of each. Upon completion of the milestone, each objective will be reviewed by thenewboston team and once all objectives have been verified as completed, coins will then be rewarded.
+## Milestone Details
+
+Please include a detailed breakdown of the first milestone including a list of all quantifiable objectives and 
+estimated coin value of each. Upon completion of the milestone, each objective will be reviewed by thenewboston team 
+and once all objectives have been verified as completed, coins will then be rewarded.
+
+Note that all future detailed milestone breakdowns will be written as a separate GitHub issue. Only the first one is 
+included in the project proposal.
+
+---
 
 #### Milestone Description
 SHORT DESCRIPTION OF MILESTONE HERE
@@ -42,8 +53,8 @@ SHORT DESCRIPTION OF MILESTONE HERE
 #### Requested Payment Upon Completion
 AMOUNT OF COINS HERE
 
-| Objective           | Estimated Value (coins)   |
-| ------------------- | ------------------------- |
-| Example objective A | ESTIMATED_AMOUNT_OF_COINS |
-| Example objective B | ESTIMATED_AMOUNT_OF_COINS |
-| Example objective C | ESTIMATED_AMOUNT_OF_COINS |
+| # | Objective           | Estimated Value (coins)   |
+| - | ------------------- | ------------------------- |
+| 1 | Example objective A | ESTIMATED_AMOUNT_OF_COINS |
+| 2 | Example objective B | ESTIMATED_AMOUNT_OF_COINS |
+| 3 | Example objective C | ESTIMATED_AMOUNT_OF_COINS |
