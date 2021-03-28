@@ -12,8 +12,6 @@ ADD LINK HERE
 #### Link to most recent milestone payout request.
 LINK TO ACCEPTABLE PROOF OF WORK DOCUMENT HERE
 
-#### Please include a detailed breakdown of the first milestone including a list of all quantifiable objectives and estimated coin value of each. Upon completion of the milestone, each objective will be reviewed by thenewboston team and once all objectives have been verified as completed, coins will then be rewarded.
-
 #### Milestone Description
 SHORT DESCRIPTION OF MILESTONE HERE
 
