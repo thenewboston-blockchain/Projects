@@ -2,58 +2,18 @@
   <img alt="thenewboston logo" src="./svgs/thenewboston-primary.svg" width="400">
 </p>
 
-## Table of Contents
-
-- [Overview](#overview)
-- [What You Will Be Responsible For](#what-you-will-be-responsible-for)
-- [How to Submit a Proposal](#how-to-submit-a-proposal)
-- [What Next](#what-next)
-- [Build a Team](#build-a-team)
-- [Funding](#funding)
-- [Community](#community)
-- [Donate](#donate)
-- [License](#license)
-
 ## Overview
 
-This repository is for project proposals for thenewboston digital currency. Funding will be provided for all projects 
-or apps that adhere to the [Rules & Guidelines](https://thenewboston.com/projects/rules).
+Contributors can earn coins by working on apps, games, tools, and other software for thenewboston network. To receive 
+funding, project proposals will be submitted to thenewboston team who will review the details of the proposal to ensure 
+that all rules and guidelines are met. Once approved, coins will be rewarded as milestones are completed throughout the 
+development process.
 
-**Note**: The Idea Only proposals will receive 3000 coins as a reward after the first weekly report received from the 
-team which is executing that Idea.
+These projects will improve our network through the continuous creation of new apps, games, and tools while also 
+allowing for a more widespread distribution of coins to many contributors.
 
-**More info**: https://thenewboston.com/projects/overview
-
-## How to Submit a Proposal
-
-#### There are two types of proposals:
-
-- **Project Proposal**: Where the person giving an idea is ready to work on that project. [Click here](https://github.com/thenewboston-developers/Project-Proposals/issues/new?assignees=&labels=Project&template=add-project-proposal.md&title=NAME_OF_YOUR_PROJECT) to submit Project Proposal
-
-- **Idea Only Proposal**: Where the person has an idea but not ready to work on it and wants someone else to take that 
-  idea and build the project. [Click here](https://github.com/thenewboston-developers/Project-Proposals/issues/new?assignees=&labels=Idea+Only&template=idea-only-proposal.md&title=NAME_OF_YOUR_IDEA) to submit Idea Only Proposal.
-
-Please fill out all required fields. Feel free to include any additional information as well!
-
-## What Next
-
-The team will review your proposal within 2-3 days. Please check back often as there may be additional questions from 
-the team on your proposal. If approved the proposal will be labeled **Pending Repository**. You will be required to 
-leave a comment with the URL of the project repository before final approval.
-
-After repository URL has been submitted, the proposal will be labeled **Approved** and final terms will be merged into 
-this repository.
-
-## Build a Team
-
-As project manager, you can choose to submit either an individual or team project proposal. If your project requires a 
-team of contributors then you will be responsible for choosing your own team. If you would like help with recruiting 
-for any positions whether it is designers, developers, quality analysts, etc... please post the role you are looking for 
-in the **#recruiting** channel on Slack and our team will help you find a contributor.
-
-After the **team formation**, the team leader (or manager) has to provide details of each member of the team. Details 
-**include Full Name, GitHub Username, Slack username, LinkedIn, Role in the team, and the account number** where they 
-want to receive payments.
+For all details regarding projects including rules and guidelines, the proposal process, milestone payout requests, 
+etc... please visit https://thenewboston.com/projects/overview
 
 ## Community
 
