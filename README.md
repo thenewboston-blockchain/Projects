@@ -17,9 +17,10 @@
 ## Overview
 
 This repository is for project proposals for thenewboston digital currency. Funding will be provided for all projects 
-or apps that adheres to the [Rules & Guidelines](https://thenewboston.com/projects/rules).
+or apps that adhere to the [Rules & Guidelines](https://thenewboston.com/projects/rules).
 
-**Note**: The Idea Only proposals will receive 3000 coins as a reward after the first weekly report received from the team which is executing that Idea.
+**Note**: The Idea Only proposals will receive 3000 coins as a reward after the first weekly report received from the 
+team which is executing that Idea.
 
 **More info**: https://thenewboston.com/projects/overview
 
@@ -29,15 +30,16 @@ or apps that adheres to the [Rules & Guidelines](https://thenewboston.com/projec
 
 - **Project Proposal**: Where the person giving an idea is ready to work on that project. [Click here](https://github.com/thenewboston-developers/Project-Proposals/issues/new?assignees=&labels=Project&template=add-project-proposal.md&title=NAME_OF_YOUR_PROJECT) to submit Project Proposal
 
-- **Idea Only Proposal**: Where the person have an idea but not ready to work on it and wants someone else to take that idea and build the project. [Click here](https://github.com/thenewboston-developers/Project-Proposals/issues/new?assignees=&labels=Idea+Only&template=idea-only-proposal.md&title=NAME_OF_YOUR_IDEA) to submit Idea Only Proposal.
+- **Idea Only Proposal**: Where the person has an idea but not ready to work on it and wants someone else to take that 
+  idea and build the project. [Click here](https://github.com/thenewboston-developers/Project-Proposals/issues/new?assignees=&labels=Idea+Only&template=idea-only-proposal.md&title=NAME_OF_YOUR_IDEA) to submit Idea Only Proposal.
 
 Please fill out all required fields. Feel free to include any additional information as well!
 
 ## What Next
 
 The team will review your proposal within 2-3 days. Please check back often as there may be additional questions from 
-the team on your proposal. If approved the proposal will be labeled **Pending Repository**. You will be required to leave 
-a comment with the URL of the project repository before final approval.
+the team on your proposal. If approved the proposal will be labeled **Pending Repository**. You will be required to 
+leave a comment with the URL of the project repository before final approval.
 
 After repository URL has been submitted, the proposal will be labeled **Approved** and final terms will be merged into 
 this repository.
@@ -49,17 +51,14 @@ team of contributors then you will be responsible for choosing your own team. If
 for any positions whether it is designers, developers, quality analysts, etc... please post the role you are looking for 
 in the **#recruiting** channel on Slack and our team will help you find a contributor.
 
-After the **team formation**, the team leader (or manager) has to provide details of each member of the team. Details **include Full Name, GitHub Username, Slack username, LinkedIn, Role in the team, and the account number** where they want to receive payments.
-
-
-## Funding
-
-All the members of approved projects will receive weekly payments with pay per day of **2800 coins**.
-More Info: https://thenewboston.com/projects/funding
+After the **team formation**, the team leader (or manager) has to provide details of each member of the team. Details 
+**include Full Name, GitHub Username, Slack username, LinkedIn, Role in the team, and the account number** where they 
+want to receive payments.
 
 ## Community
 
-Join the community to stay updated on the most recent developments, project roadmaps, and random discussions about completely unrelated topics.
+Join the community to stay updated on the most recent developments, project roadmaps, and random discussions about 
+completely unrelated topics.
 
 - [thenewboston.com](https://thenewboston.com/)
 - [Discord](https://discord.gg/thenewboston)
