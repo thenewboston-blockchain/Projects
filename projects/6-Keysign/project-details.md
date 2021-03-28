@@ -1,5 +1,5 @@
 #### Project Repository
-https://github.com/mrbusysky/keysign
+https://github.com/Keysign-Wallet
 
 #### Issue 
 https://github.com/thenewboston-developers/Project-Proposals/issues/6
@@ -8,15 +8,19 @@ https://github.com/thenewboston-developers/Project-Proposals/issues/6
 
 #### How would you describe your project?
 Chrome/firefox extension for transaction signing.
+Website wallet with paypal like merchant services
+Mobile wallet application for tnb blockchain
+Desktop Wallet application for tnb
+Plugins that allows connection to merhcant services and tnb blockchain
 
 #### What problem does it solve?
-Decentralized interaction with the chain from browser
+Decentralized interaction with the chain
 
 #### Who is the target market?
-Everyone and Site operators
+Site operators, Project creators, e-commerce services
 
 #### What do you think is the opportunity of this project?
-To allow decentralized logins and communication to the chain from the browser.
+To allow decentralized logins and communication to the chain from the Browser/Desktop/in-game and App.
 
 #### How does it integrate with thenewboston digital currency work?
 Partnering with the thenewboston-js team for API features. Creating a handshake between sites and the browser that allows them to connect to the chain.
@@ -53,10 +57,10 @@ If private key matches public key send true if valid send confirmation
 
 
 
-**More details on the project to show I have it scoped out.**
+**More details on the projects to show I have it scoped out.**
 
 
-#### Scope was updated here to include website for keysign that includes merchant services like paypal features.
+#### Keysign website scope that includes merchant services paypal style features.
 https://github.com/Keysign-Wallet/Project-Proposals/blob/master/projects/6-Keysign/Weekly%20Report/week-5.md
 
 #### Keysign mobile wallet app scope
