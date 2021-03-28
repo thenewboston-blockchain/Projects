@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## Project Details
+# Project Details
 
 #### How would you describe your project?
 ANSWER HERE
@@ -36,7 +36,7 @@ LINKS TO SAMPLE DOCS HERE
 #### What is your Discord username?
 DISCORD USERNAME HERE (https://discord.gg/thenewboston)
 
-## Milestone Details
+# Milestone Details
 
 Please include a detailed breakdown of the first milestone including a list of all quantifiable objectives and 
 estimated coin value of each. Upon completion of the milestone, each objective will be reviewed by thenewboston team 
