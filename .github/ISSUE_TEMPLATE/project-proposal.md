@@ -8,34 +8,34 @@ assignees: ''
 ---
 
 #### How would you describe your project?
-[ANSWER HERE]
+ANSWER HERE
 
 #### What problem does it solve?
-[ANSWER HERE]
+ANSWER HERE
 
 #### Who is the target market?
-[ANSWER HERE]
+ANSWER HERE
 
 #### What do you think is the opportunity of this project?
-[ANSWER HERE]
+ANSWER HERE
 
 #### How does it integrate with thenewboston digital currency work?
-[ANSWER HERE]
+ANSWER HERE
 
 #### Are there any competitors?
-[ANSWER HERE]
+ANSWER HERE
 
 #### Will you need specific information or advice?
-[ANSWER HERE]
+ANSWER HERE
 
 #### What are your goals and objectives?
-[ANSWER HERE]
+ANSWER HERE
 
 #### How will you evaluate project success?
-[ANSWER HERE]
+ANSWER HERE
 
 #### What risks should you plan to manage?
-[ANSWER HERE]
+ANSWER HERE
 
 #### What are your milestones?
 <!--- You are free to create your own milestones and any number of milestones. Dates can be approximate. --->
@@ -46,9 +46,9 @@ assignees: ''
 #### Tell us about your team members:
 Full Name, Slack Username, GitHub Username, LinkedIn, Role, Team Joining Date, Team Leaving Date, Account number
 
-[ANSWER HERE]
+ANSWER HERE
 
 <!--- Add at least your details if you don't have your team yet. Put "-" for Team Leaving Date. Please join thenewboston slack: https://join.slack.com/t/thenewboston/shared_invite/zt-j7j4ie92-ADy7GL3KAzCwSlaAVoDKLw --->
 
 #### List the roles of any additional team members you would be looking for?
-[ANSWER HERE]
+ANSWER HERE

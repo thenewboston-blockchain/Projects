@@ -8,28 +8,28 @@ assignees: ''
 ---
 
 #### How would you describe your project?
-[ANSWER HERE]
+ANSWER HERE
 
 #### What problem does it solve?
-[ANSWER HERE]
+ANSWER HERE
 
 #### Who is the target market?
-[ANSWER HERE]
+ANSWER HERE
 
 #### What do you think is the opportunity of this project?
-[ANSWER HERE]
+ANSWER HERE
 
 #### How does it integrate with thenewboston digital currency work?
-[ANSWER HERE]
+ANSWER HERE
 
 #### Are there any competitors?
-[ANSWER HERE]
+ANSWER HERE
 
 #### What are your goals and objectives?
-[ANSWER HERE]
+ANSWER HERE
 
 #### How will you evaluate project success?
-[ANSWER HERE]
+ANSWER HERE
 
 
 **By posting this issue, I (author of this issue) allow my project idea to be used by other people for any commercial as well as non-commercial purposes and I'll not be liable for misuse of my idea.**

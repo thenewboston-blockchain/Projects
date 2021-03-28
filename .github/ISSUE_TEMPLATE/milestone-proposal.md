@@ -15,10 +15,10 @@ LINK TO ACCEPTABLE PROOF OF WORK DOCUMENT HERE
 #### Please include a detailed breakdown of the first milestone including a list of all quantifiable objectives and estimated coin value of each. Upon completion of the milestone, each objective will be reviewed by thenewboston team and once all objectives have been verified as completed, coins will then be rewarded.
 
 #### Milestone
-SHORT_DESCRIPTION_OF_MILESTONE
+SHORT DESCRIPTION OF MILESTONE HERE
 
 #### Requested Payment Upon Completion
-AMOUNT_OF_COINS coins
+AMOUNT OF COINS HERE
 
 | Objective           | Estimated Value (coins)   |
 | ------------------- | ------------------------- |
