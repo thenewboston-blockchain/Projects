@@ -54,5 +54,10 @@ If private key matches public key send true if valid send confirmation
 
 
 **More details on the project to show I have it scoped out.**
-![Screenshot_2020-11-15 mrbusysky keysign](https://user-images.githubusercontent.com/58412572/99715223-67fdaa00-2a5b-11eb-925e-e9317f86c544.png)
 
+
+#### Scope was updated here to include website for keysign that includes merchant services.
+https://github.com/Keysign-Wallet/Project-Proposals/blob/master/projects/6-Keysign/Weekly%20Report/week-5.md
+
+#### Keysign mobile wallet app scope
+https://docs.google.com/document/d/1rVnzk0zbl-wqMCtVpbTlKZBJxrMElcL5nTvpfGsahn0/edit
