@@ -17,11 +17,11 @@
 ## Overview
 
 This repository is for project proposals for thenewboston digital currency. Funding will be provided for all projects 
-or apps that adheres to the [Rules & Guidelines](https://thenewboston.com/project-proposals/rules).
+or apps that adheres to the [Rules & Guidelines](https://thenewboston.com/projects/rules).
 
 **Note**: The Idea Only proposals will receive 3000 coins as a reward after the first weekly report received from the team which is executing that Idea.
 
-**More info**: https://thenewboston.com/project-proposals/overview
+**More info**: https://thenewboston.com/projects/overview
 
 ## What You Will Be Responsible For
 
@@ -66,7 +66,7 @@ After the **team formation**, the team leader (or manager) has to provide detail
 ## Funding
 
 All the members of approved projects will receive weekly payments with pay per day of **2800 coins**.
-More Info: https://thenewboston.com/project-proposals/funding
+More Info: https://thenewboston.com/projects/funding
 
 ## Community
 
