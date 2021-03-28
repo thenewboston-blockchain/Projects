@@ -23,5 +23,5 @@ AMOUNT_OF_COINS coins
 | Objective           | Estimated Value (coins)   |
 | ------------------- | ------------------------- |
 | Example objective A | ESTIMATED_AMOUNT_OF_COINS |
-| Example objective A | ESTIMATED_AMOUNT_OF_COINS |
-| Example objective A | ESTIMATED_AMOUNT_OF_COINS |
+| Example objective B | ESTIMATED_AMOUNT_OF_COINS |
+| Example objective C | ESTIMATED_AMOUNT_OF_COINS |
