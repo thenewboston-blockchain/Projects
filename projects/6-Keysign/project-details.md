@@ -56,7 +56,7 @@ If private key matches public key send true if valid send confirmation
 **More details on the project to show I have it scoped out.**
 
 
-#### Scope was updated here to include website for keysign that includes merchant services.
+#### Scope was updated here to include website for keysign that includes merchant services like paypal features.
 https://github.com/Keysign-Wallet/Project-Proposals/blob/master/projects/6-Keysign/Weekly%20Report/week-5.md
 
 #### Keysign mobile wallet app scope
