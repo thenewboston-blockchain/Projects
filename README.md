@@ -23,17 +23,6 @@ or apps that adheres to the [Rules & Guidelines](https://thenewboston.com/projec
 
 **More info**: https://thenewboston.com/projects/overview
 
-## What You Will Be Responsible For
-
-As project manager, you will be responsible for the following.
-
-- **Guiding** the success of the project
-- **Building your team** (we can help with recruiting)
-- **Managing** all aspects of the project including planning, design, development, etc…
-- **Meet checkpoints** according to your submitted roadmap timeline
-- **Provide weekly progress** report
-- **Maintain an active and happy team**
-
 ## How to Submit a Proposal
 
 #### There are two types of proposals:
