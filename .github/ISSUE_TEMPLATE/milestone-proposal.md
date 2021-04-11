@@ -23,3 +23,9 @@ AMOUNT OF COINS HERE
 | Example objective A | ESTIMATED_AMOUNT_OF_COINS |
 | Example objective B | ESTIMATED_AMOUNT_OF_COINS |
 | Example objective C | ESTIMATED_AMOUNT_OF_COINS |
+
+#### Project Reviewer
+NAME OF PROJECT REVIEWER HERE
+
+#### Project Wallet
+WALLET ACCOUNT NUMBER HERE
