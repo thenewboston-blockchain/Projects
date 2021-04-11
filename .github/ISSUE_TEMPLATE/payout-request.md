@@ -11,3 +11,9 @@ ADD LINK HERE
 
 #### Detailed log of all completed objectives including valid proof of work.
 LINK TO ACCEPTABLE PROOF OF WORK DOCUMENT HERE
+
+#### Project Reviewer
+NAME OF PROJECT REVIEWER HERE
+
+#### Project Wallet
+PROJECT WALLET ACCOUNT NUMBER HERE
