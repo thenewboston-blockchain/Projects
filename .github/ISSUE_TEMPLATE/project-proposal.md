@@ -53,7 +53,7 @@ included in the project proposal.
 SHORT DESCRIPTION OF MILESTONE HERE
 
 #### Requested Payment Upon Completion
-AMOUNT OF COINS HERE
+AMOUNT OF COINS HERE, ESTIMATED COIN VALUES DOES NOT NEED TO BE FILLED OUT UNTIL YOU MEET WITH A PROJECT REVIEWER
 
 | # | Objective           | Estimated Value (coins)   |
 | - | ------------------- | ------------------------- |
