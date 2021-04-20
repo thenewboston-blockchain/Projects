@@ -1,6 +1,0 @@
-- Exposure situations fully integrated on frontend. This element is now a central part of exposure assesssment
-- List of saved situations programmed as a table listing different items
-- One React component for all exposure models and different fields (extended since last week)
-- ART further extended
-- Stoffenmanager model added
-- ECETOC TRA partly integrated

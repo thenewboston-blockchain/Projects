@@ -1,4 +1,0 @@
-- Created some more screens in Figma
-- Got a mobile developer who started working on the app
-- Got the account creation functionality, working on login
-- Got the infrastructure as code for the main functionality
