@@ -1,3 +1,0 @@
-- Got the setup/first few screens on mobile
-- Got the designs for the payment screens
-- Finished the Goals back-end

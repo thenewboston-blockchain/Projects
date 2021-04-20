@@ -1,4 +1,0 @@
-- Finished hiring for the firsh phase (got a designer and a back-end developer)
-- Created the back-end project structure
-- Created tasks for the back-end
-- Discussed the design of the application (will be started this week)

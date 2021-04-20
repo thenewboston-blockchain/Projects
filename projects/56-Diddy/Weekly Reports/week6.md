@@ -1,3 +1,0 @@
-- Spent a lot of time getting the lambda layer to work (still WIP)
-- Got a product roadmap started
-- Started a general setup for the mobile app
