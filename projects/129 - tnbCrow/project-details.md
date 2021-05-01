@@ -5,7 +5,8 @@ https://github.com/tnbCrow
 https://github.com/thenewboston-developers/Project-Proposals/issues/129
 
 #### How would you describe your project?
-Multiplatform escrow application for thenewboston.
+- Multiplatform escrow application.
+- TNBC tumbler/ mixer
 
 #### What problem does it solve?
 Creates a secure bridge between buyer and seller to transact.
