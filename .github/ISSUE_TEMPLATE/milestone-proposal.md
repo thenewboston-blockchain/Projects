@@ -2,6 +2,7 @@
 name: Milestone Proposal
 about: Submit a milestone for funding.
 title: NAME_OF_PROJECT - NAME_OF_MILESTONE - MILESTONE_NUMBER
+labels: Milestone
 assignees: ''
 
 ---
