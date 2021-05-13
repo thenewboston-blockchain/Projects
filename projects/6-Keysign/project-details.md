@@ -60,14 +60,14 @@ If private key matches public key send true if valid send confirmation
 **More details on the projects to show I have it scoped out.**
 
 
-#### Keysign website scope that includes merchant services paypal style features.
+### Keysign website scope that includes merchant services paypal style features.
 https://github.com/Keysign-Wallet/Project-Proposals/blob/master/projects/6-Keysign/Weekly%20Report/week-5.md
 
-#### Keysign mobile wallet app scope
+### Keysign mobile wallet app scope
 https://docs.google.com/document/d/1rVnzk0zbl-wqMCtVpbTlKZBJxrMElcL5nTvpfGsahn0/edit
 
-#### Keysign desktop wallet app scope
+### Keysign desktop wallet app scope
 Not currently ready
 
-#### Keysign plugins with connections to merchant services.
+### Keysign plugins with connections to merchant services.
 Waiting on memo system
