@@ -40,27 +40,23 @@ DISCORD USERNAME HERE (https://discord.gg/thenewboston)
 
 # Milestone Details
 
-Please include a detailed breakdown of the first milestone including a list of all quantifiable objectives and 
-estimated coin value of each. Upon completion of the milestone, each objective will be reviewed by thenewboston team 
-and once all objectives have been verified as completed, coins will then be rewarded.
+Please include a detailed breakdown of the first milestone including a list of all quantifiable objectives. Upon 
+completion of the milestone, each objective will be reviewed by thenewboston team and once all objectives have been 
+verified as completed, coins will then be rewarded.
 
-Note that all future detailed milestone breakdowns will be written as a separate GitHub issue. Only the first one is 
-included in the project proposal.
+Note that all future detailed milestone breakdowns will be written as a separate GitHub issue. Only the first milestone 
+is included in this project proposal.
 
 ---
 
-#### Milestone Description
+#### First Milestone Description
 SHORT DESCRIPTION OF MILESTONE HERE
 
-#### Requested Payment Upon Completion
-AMOUNT OF COINS HERE, ESTIMATED COIN VALUES DOES NOT NEED TO BE FILLED OUT UNTIL YOU MEET WITH A PROJECT REVIEWER
+#### First Milestone Objectives
 
-| # | Objective           | Estimated Value (coins)   |
-| - | ------------------- | ------------------------- |
-| 1 | Example objective A | ESTIMATED_AMOUNT_OF_COINS |
-| 2 | Example objective B | ESTIMATED_AMOUNT_OF_COINS |
-| 3 | Example objective C | ESTIMATED_AMOUNT_OF_COINS |
-
+1. OBJECTIVE A
+2. OBJECTIVE B
+3. OBJECTIVE C
 
 #### Project Wallet
 PROJECT WALLET ACCOUNT NUMBER HERE
