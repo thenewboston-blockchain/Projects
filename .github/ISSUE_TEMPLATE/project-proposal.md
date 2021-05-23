@@ -54,9 +54,11 @@ SHORT DESCRIPTION OF MILESTONE HERE
 
 #### First Milestone Objectives
 
-1. OBJECTIVE A
-2. OBJECTIVE B
-3. OBJECTIVE C
+| # | Objective             | How can auditors verify milestone?     |
+| - | --------------------- | -------------------------------------- |
+| 1 | OBJECTIVE DESCRIPTION | EXPLANATION OF HOW AUDITORS CAN VERIFY |
+| 2 | OBJECTIVE DESCRIPTION | EXPLANATION OF HOW AUDITORS CAN VERIFY |
+| 3 | OBJECTIVE DESCRIPTION | EXPLANATION OF HOW AUDITORS CAN VERIFY |
 
 #### Project Wallet
 PROJECT WALLET ACCOUNT NUMBER HERE
