@@ -16,14 +16,14 @@ LINK TO ACCEPTABLE PROOF OF WORK DOCUMENT HERE
 #### Milestone Description
 SHORT DESCRIPTION OF MILESTONE HERE
 
-#### Requested Payment Upon Completion
-AMOUNT OF COINS HERE
+| # | Objective             | How can auditors verify milestone?     |
+| - | --------------------- | -------------------------------------- |
+| 1 | OBJECTIVE DESCRIPTION | EXPLANATION OF HOW AUDITORS CAN VERIFY |
+| 2 | OBJECTIVE DESCRIPTION | EXPLANATION OF HOW AUDITORS CAN VERIFY |
+| 3 | OBJECTIVE DESCRIPTION | EXPLANATION OF HOW AUDITORS CAN VERIFY |
 
-| Objective           | Estimated Value (coins)   |
-| ------------------- | ------------------------- |
-| Example objective A | ESTIMATED_AMOUNT_OF_COINS |
-| Example objective B | ESTIMATED_AMOUNT_OF_COINS |
-| Example objective C | ESTIMATED_AMOUNT_OF_COINS |
+#### How long do you estimate this first milestone will take to complete?
+ANSWER HERE
 
 #### Project Wallet
-WALLET ACCOUNT NUMBER HERE
+PROJECT WALLET ACCOUNT NUMBER HERE
