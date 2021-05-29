@@ -22,7 +22,7 @@ SHORT DESCRIPTION OF MILESTONE HERE
 | 2 | OBJECTIVE DESCRIPTION | EXPLANATION OF HOW AUDITORS CAN VERIFY |
 | 3 | OBJECTIVE DESCRIPTION | EXPLANATION OF HOW AUDITORS CAN VERIFY |
 
-#### How long do you estimate this first milestone will take to complete?
+#### How long do you estimate this milestone will take to complete?
 ANSWER HERE
 
 #### Project Wallet
