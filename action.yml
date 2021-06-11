@@ -1,0 +1,15 @@
+name: "TNB Github Cleaner"
+description: "No more bad words in repository!"
+
+inputs:
+  repo-token:
+    description: "github personal access token."
+    required: true
+
+runs:
+  using: "node12"
+  main: "tnb-github-cleaner/index.js"
+
+branding:
+  icon: "user-check"
+  color: "gray-dark"
