@@ -1,0 +1,21 @@
+name: TNB Github cleaner
+
+on: 
+  issues:
+    types: [opened, edited]
+  issue_comment:
+    types: [created, edited]
+  pull_request:
+    types: [opened, edited]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: TNB Github cleaner
+      uses: ./
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
