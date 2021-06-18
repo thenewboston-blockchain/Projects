@@ -1,3 +1,0 @@
-- Made great progress on the frontend
-- Put together a team
-- Applying for a grant
