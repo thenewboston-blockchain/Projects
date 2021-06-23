@@ -1,5 +1,5 @@
 #### Project Repository
-N/A
+https://github.com/akandejaphet/TNBPay
 
 #### Issue 
 https://github.com/thenewboston-developers/Projects/issues/172
