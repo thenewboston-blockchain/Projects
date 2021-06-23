@@ -6,7 +6,7 @@ https://github.com/thenewboston-developers/Projects/issues/172
 
 #### Project Lead
 Github: https://github.com/olowudaniel1
-Discord: sWeird Guy#6773
+Discord: Weird Guy#6773
 
 #### How would you describe your project?
 Creating a plugin that would allow users to pay with TNB on popular E-commerce platform such as WooCommerce, Shopify, Wix stores, Bigcommerce and PrestaShop
