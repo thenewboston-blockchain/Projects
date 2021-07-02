@@ -25547,6 +25547,83 @@ __nccwpck_require__.r(__webpack_exports__);
 
 const Filter = __nccwpck_require__(6926);
 var filter = new Filter({ placeHolder: '*', regex: /$/gi });
+filter.addWords('dollar', 'doll@r$', 'doll@rs', 'dollar$', 'd0llars', 'd0llar', 'dollars', 'usd', 'us dollar', 'us dollars', 'us-dollar', 'us-dollars', '$$', '$$$','$$$$', 'Lek','Afghani', 'AFN', '؋', 'Peso', 'ARS', '$', 'Guilder', 'AWG', 'ƒ', 'Australia Dollar', 'AUD', '$', 'Manat', 'AZN', 'ман', 'Bahamas Dollar', 'BSD', '$', 'Barbados Dollar', 'BBD', '$', 'Ruble', 'BYR', 'p.', 'Dollar', 'BZD', 'BZ$', 'Bermuda Dollar', 'BMD', '$', 'Boliviano', 'BOB', '$b', 'Marka', 'BAM', 'KM', 'Pula', 'BWP', 'P', 'Lev', 'BGN', 'лв', 'BRL', 'R$', 'Brunei Darussalam Dollar', 'BND', '$', 'Riel', 'KHR', '៛', 'Canada Dollar', 'CAD', '$', 'Cayman Islands Dollar', 'KYD', '$', 'Peso', 'CLP', '$', 'Yuan', 'CNY', '¥', 'Colombia Peso', 'COP', '$', 'Costa Rica Colon', 'CRC', '₡', 'Croatia Kuna', 'HRK', 'kn', 'Cuba Peso', 'CUP', '₱', 'Czech Republic Koruna', 'CZK', 'Kč', 'Denmark Krone', 'DKK', 'kr', 'Dominican Republic Peso', 'DOP', 'RD$', 'East Caribbean Dollar', 'XCD', '$', 'Egypt Pound', 'EGP', '£', 'El Salvador Colon', 'SVC', '$', 'Estonia Kroon', 'EEK', 'kr', 'Euro Member Countries', 'EUR', '€', 'Falkland Islands (Malvinas) Pound', 'FKP', '£', 'Fiji Dollar', 'FJD', '$', 'Ghana Cedis', 'GHC', '¢', 'Gibraltar Pound', 'GIP', '£', 'Guatemala Quetzal', 'GTQ', 'Guernsey Pound', 'GGP', '£', 'Guyana Dollar', 'GYD', '$', 'Honduras Lempira', 'HNL', 'L', 'Hong Kong Dollar', 'HKD', '$', 'Hungary Forint', 'HUF', 'Ft', 'Iceland Krona', 'ISK', 'kr', 'Rupee', 'Rupees', 'INR', '₹', 'Rupiah', 'IDR', 'Rp', 'Rial', 'IRR', '﷼', 'Isle of Man Pound', 'IMP', '£', 'Shekel', 'ILS', '₪', 'Jamaica Dollar', 'JMD', 'J$', 'Japan Yen', 'JPY', '¥', 'Jersey Pound', 'JEP', '£', 'Tenge', 'KZT', 'лв', 'Korea (North) Won', 'KPW', '₩', 'KRW', '₩', 'Som', 'KGS', 'лв', 'Laos Kip', 'LAK', '₭', 'Lat', 'LVL', 'Ls', 'Lebanon Pound', 'LBP', '£', 'Liberia Dollar', 'LRD', '$', 'Litas', 'LTL', 'Lt', 'Denar', 'MKD', 'ден', 'Malaysia Ringgit', 'MYR', 'RM', 'Mauritius Rupee', 'MUR', '₨', 'Mexico Peso', 'MXN', '$', 'Mongolia Tughrik', 'MNT', '₮', 'Metical', 'MZN', 'MT', 'Namibia Dollar', 'NAD', '$', 'Nepal Rupee', 'NPR', '₨', 'Guilder', 'ANG', 'ƒ', 'New Zealand Dollar', 'NZD', '$', 'Nicaragua Cordoba', 'NIO', 'C$', 'Nigeria Naira', 'NGN', '₦', 'Korea (North) Won', 'KPW', '₩', 'Norway Krone', 'NOK', 'kr', 'Oman Rial', 'OMR', '﷼', 'Pakistan Rupee', 'PKR', '₨', 'Balboa', 'PAB', 'B/.', 'Guarani', 'PYG', 'Gs', 'Sol', 'PEN', 'Philippines Peso', '₱', 'Zloty', 'PLN', 'zł', 'Riyal', 'QAR', '﷼', 'Leu', 'RON', 'lei', 'Ruble', 'RUB', 'руб', 'Saint Helena Pound', 'SHP', '£', 'Riyal', 'SAR', '﷼', 'Serbia Dinar', 'RSD', 'Дин.', 'Seychelles Rupee', 'SCR', '₨', 'Singapore Dollar', 'SGD', '$', 'Solomon Islands Dollar', 'SBD', '$', 'Shilling', 'SOS', 'Rand', 'ZAR', 'KRW', '₩', 'Sri Lanka Rupee', 'LKR', '₨', 'Krona', 'SEK', 'kr', 'Switzerland Franc', 'CHF', 'CHF', 'Suriname Dollar', 'SRD', '$', 'Syria Pound', 'SYP', '£', 'Taiwan New Dollar', 'TWD', 'NT$', 'Baht', 'THB', '฿', 'Trinidad and Tobago Dollar', 'TTD', 'TT$', 'Turkey Lira', 'Lira', 'TRL', '₤', 'Tuvalu Dollar', 'TVD', '$', 'Hryvna', 'UAH', '₴', 'Pound', 'GBP', '£', 'United States Dollar', 'USD', '$', 'Uruguay Peso', 'UYU', '$U', 'Som', 'UZS', 'лв', 'Bolivar', 'VEF', 'Bs', 'Dong', 'VND', '₫', 'Yemen Rial', 'YER', '﷼', 'Zimbabwe Dollar', 'ZWD', 'Z$');
+
+async function run() {
+  try {
+    const token = _actions_core__WEBPACK_IMPORTED_MODULE_0__.getInput('repo-token');
+    const octokit = new _actions_github__WEBPACK_IMPORTED_MODULE_1__.GitHub(token);
+
+    console.log("tnb-github-cleaner check commencing!");
+    if (_actions_github__WEBPACK_IMPORTED_MODULE_1__.context.eventName === 'issues') {
+      let issue = _actions_github__WEBPACK_IMPORTED_MODULE_1__.context.payload.issue;
+      let cleanTitle = filter.clean(issue.title);
+      let cleanBody = filter.clean(issue.body);
+      if(cleanTitle !== issue.title || cleanBody !== issue.body) {
+        console.log("Bad word(s) detected, updating issue.");
+        await octokit.issues.update({
+          ..._actions_github__WEBPACK_IMPORTED_MODULE_1__.context.repo,
+          issue_number: issue.number,
+          title: cleanTitle,
+          body: cleanBody
+        });
+      } else {
+        console.log("Issue is free from bad word(s).");
+      }
+    } else if (_actions_github__WEBPACK_IMPORTED_MODULE_1__.context.eventName === 'issue_comment') {
+      let issueComment = _actions_github__WEBPACK_IMPORTED_MODULE_1__.context.payload.comment;
+      let cleanComment = filter.clean(issueComment.body);
+      if(cleanComment !== issueComment.body) {
+        console.log("Bad word(s) detected, updating issue comment.");
+        await octokit.issues.updateComment({
+          ..._actions_github__WEBPACK_IMPORTED_MODULE_1__.context.repo,
+          comment_id: issueComment.id,
+          body: cleanComment
+        });
+      } else {
+        console.log("Issue comment is free from bad word(s).");
+      }
+    } else if (_actions_github__WEBPACK_IMPORTED_MODULE_1__.context.eventName === 'pull_request') {
+      let pr = _actions_github__WEBPACK_IMPORTED_MODULE_1__.context.payload.pull_request;
+      let cleanTitle = filter.clean(pr.title);
+      let cleanBody = filter.clean(pr.body);
+      if(cleanTitle !== pr.title || cleanBody !== pr.body) {
+        console.log("Bad word(s) detected, updating pull request.");
+        await octokit.pulls.update({
+          ..._actions_github__WEBPACK_IMPORTED_MODULE_1__.context.repo,
+          pull_number: pr.number,
+          title: cleanTitle,
+          body: cleanBody
+        });
+      } else {
+        console.log("Pull request is free from bad word(s).");
+      }
+    }
+  } catch(error) {
+    _actions_core__WEBPACK_IMPORTED_MODULE_0__.setFailed(error.message);
+  }
+}
+
+run();
+
+})();
+
+module.exports = __webpack_exports__;
+/******/ })()
+;*****/ 	if (typeof __nccwpck_require__ !== 'undefined') __nccwpck_require__.ab = __dirname + "/";/************************************************************************/
+var __webpack_exports__ = {};
+// This entry need to be wrapped in an IIFE because it need to be in strict mode.
+(() => {
+"use strict";
+__nccwpck_require__.r(__webpack_exports__);
+/* harmony import */ var _actions_core__WEBPACK_IMPORTED_MODULE_0__ = __nccwpck_require__(3722);
+/* harmony import */ var _actions_core__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__nccwpck_require__.n(_actions_core__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _actions_github__WEBPACK_IMPORTED_MODULE_1__ = __nccwpck_require__(8408);
+/* harmony import */ var _actions_github__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__nccwpck_require__.n(_actions_github__WEBPACK_IMPORTED_MODULE_1__);
+
+
+const Filter = __nccwpck_require__(6926);
+var filter = new Filter({ placeHolder: '*', regex: /$/gi });
 filter.addWords('dollar', 'doll@r$', 'doll@rs', 'dollar$', 'd0llars', 'd0llar', 'dollars', 'usd', 'us dollar', 'us dollars', 'us-dollar', 'us-dollars', '$$', '$$$','$$$$', 'Lek','Afghani', 'AFN', '؋', 'Peso', 'ARS', '$', 'Guilder', 'AWG', 'ƒ', 'Australia Dollar', 'AUD', '$', 'Manat', 'AZN', 'ман', 'Bahamas Dollar', 'BSD', '$', 'Barbados Dollar', 'BBD', '$', 'Ruble', 'BYR', 'p.', 'Dollar', 'BZD', 'BZ$', 'Bermuda Dollar', 'BMD', '$', 'Boliviano', 'BOB', '$b', 'Marka', 'BAM', 'KM', 'Pula', 'BWP', 'P', 'Lev', 'BGN', 'лв', 'BRL', 'R$', 'Brunei Darussalam Dollar', 'BND', '$', 'Riel', 'KHR', '៛', 'Canada Dollar', 'CAD', '$', 'Cayman Islands Dollar', 'KYD', '$', 'Peso', 'CLP', '$', 'Yuan', 'CNY', '¥', 'Colombia Peso', 'COP', '$', 'Costa Rica Colon', 'CRC', '₡', 'Croatia Kuna', 'HRK', 'kn', 'Cuba Peso', 'CUP', '₱', 'Czech Republic Koruna', 'CZK', 'Kč', 'Denmark Krone', 'DKK', 'kr', 'Dominican Republic Peso', 'DOP', 'RD$', 'East Caribbean Dollar', 'XCD', '$', 'Egypt Pound', 'EGP', '£', 'El Salvador Colon', 'SVC', '$', 'Estonia Kroon', 'EEK', 'kr', 'Euro Member Countries', 'EUR', '€', 'Falkland Islands (Malvinas) Pound', 'FKP', '£', 'Fiji Dollar', 'FJD', '$', 'Ghana Cedis', 'GHC', '¢', 'Gibraltar Pound', 'GIP', '£', 'Guatemala Quetzal', 'GTQ', 'Guernsey Pound', 'GGP', '£', 'Guyana Dollar', 'GYD', '$', 'Honduras Lempira', 'HNL', 'L', 'Hong Kong Dollar', 'HKD', '$', 'Hungary Forint', 'HUF', 'Ft', 'Iceland Krona', 'ISK', 'kr', 'Rupee', 'Rupees', 'INR', '₹', 'Rupiah', 'IDR', 'Rp', 'Rial', 'IRR', '﷼', 'Isle of Man Pound', 'IMP', '£', 'Shekel', 'ILS', '₪', 'Jamaica Dollar', 'JMD', 'J$', 'Japan Yen', 'JPY', '¥', 'Jersey Pound', 'JEP', '£', 'Tenge', 'KZT', 'лв', 'Korea (North) Won', 'KPW', '₩', 'Won', 'KRW', '₩', 'Som', 'KGS', 'лв', 'Laos Kip', 'LAK', '₭', 'Lat', 'LVL', 'Ls', 'Lebanon Pound', 'LBP', '£', 'Liberia Dollar', 'LRD', '$', 'Litas', 'LTL', 'Lt', 'Denar', 'MKD', 'ден', 'Malaysia Ringgit', 'MYR', 'RM', 'Mauritius Rupee', 'MUR', '₨', 'Mexico Peso', 'MXN', '$', 'Mongolia Tughrik', 'MNT', '₮', 'Metical', 'MZN', 'MT', 'Namibia Dollar', 'NAD', '$', 'Nepal Rupee', 'NPR', '₨', 'Guilder', 'ANG', 'ƒ', 'New Zealand Dollar', 'NZD', '$', 'Nicaragua Cordoba', 'NIO', 'C$', 'Nigeria Naira', 'NGN', '₦', 'Korea (North) Won', 'KPW', '₩', 'Norway Krone', 'NOK', 'kr', 'Oman Rial', 'OMR', '﷼', 'Pakistan Rupee', 'PKR', '₨', 'Balboa', 'PAB', 'B/.', 'Guarani', 'PYG', 'Gs', 'Sol', 'PEN', 'Philippines Peso', '₱', 'Zloty', 'PLN', 'zł', 'Riyal', 'QAR', '﷼', 'Leu', 'RON', 'lei', 'Ruble', 'RUB', 'руб', 'Saint Helena Pound', 'SHP', '£', 'Riyal', 'SAR', '﷼', 'Serbia Dinar', 'RSD', 'Дин.', 'Seychelles Rupee', 'SCR', '₨', 'Singapore Dollar', 'SGD', '$', 'Solomon Islands Dollar', 'SBD', '$', 'Shilling', 'SOS', 'Rand', 'ZAR', 'KRW', '₩', 'Sri Lanka Rupee', 'LKR', '₨', 'Krona', 'SEK', 'kr', 'Switzerland Franc', 'CHF', 'CHF', 'Suriname Dollar', 'SRD', '$', 'Syria Pound', 'SYP', '£', 'Taiwan New Dollar', 'TWD', 'NT$', 'Baht', 'THB', '฿', 'Trinidad and Tobago Dollar', 'TTD', 'TT$', 'Turkey Lira', 'Lira', 'TRL', '₤', 'Tuvalu Dollar', 'TVD', '$', 'Hryvna', 'UAH', '₴', 'Pound', 'GBP', '£', 'United States Dollar', 'USD', '$', 'Uruguay Peso', 'UYU', '$U', 'Som', 'UZS', 'лв', 'Bolivar', 'VEF', 'Bs', 'Dong', 'VND', '₫', 'Yemen Rial', 'YER', '﷼', 'Zimbabwe Dollar', 'ZWD', 'Z$');
 
 async function run() {
@@ -27240,195 +27317,4 @@ module.exports = JSON.parse('{"_args":[["@octokit/rest@16.43.1","C:\\\\Users\\\\
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"z":["ahole","anus","ash0le","ash0les","asholes","ass","Ass Monkey","Assface","assh0le","assh0lez","asshole","assholes","assholz","asswipe","azzhole","bassterds","bastard","bastards","bastardz","basterds","basterdz","Biatch","bitch","bitches","Blow Job","boffing","butthole","buttwipe","c0ck","c0cks","c0k","Carpet Muncher","cawk","cawks","Clit","cnts","cntz","cock","cockhead","cock-head","cocks","CockSucker","cock-sucker","crap","cum","cunt","cunts","cuntz","dick","dild0","dild0s","dildo","dildos","dilld0","dilld0s","dominatricks","dominatrics","dominatrix","dyke","enema","f u c k","f u c k e r","fag","fag1t","faget","fagg1t","faggit","faggot","fagg0t","fagit","fags","fagz","faig","faigs","fart","flipping the bird","fuck","fucker","fuckin","fucking","fucks","Fudge Packer","fuk","Fukah","Fuken","fuker","Fukin","Fukk","Fukkah","Fukken","Fukker","Fukkin","g00k","God-damned","h00r","h0ar","h0re","hells","hoar","hoor","hoore","jackoff","jap","japs","jerk-off","jisim","jiss","jizm","jizz","knob","knobs","knobz","kunt","kunts","kuntz","Lezzian","Lipshits","Lipshitz","masochist","masokist","massterbait","masstrbait","masstrbate","masterbaiter","masterbate","masterbates","Motha Fucker","Motha Fuker","Motha Fukkah","Motha Fukker","Mother Fucker","Mother Fukah","Mother Fuker","Mother Fukkah","Mother Fukker","mother-fucker","Mutha Fucker","Mutha Fukah","Mutha Fuker","Mutha Fukkah","Mutha Fukker","n1gr","nastt","nigger;","nigur;","niiger;","niigr;","orafis","orgasim;","orgasm","orgasum","oriface","orifice","orifiss","packi","packie","packy","paki","pakie","paky","pecker","peeenus","peeenusss","peenus","peinus","pen1s","penas","penis","penis-breath","penus","penuus","Phuc","Phuck","Phuk","Phuker","Phukker","polac","polack","polak","Poonani","pr1c","pr1ck","pr1k","pusse","pussee","pussy","puuke","puuker","queer","queers","queerz","qweers","qweerz","qweir","recktum","rectum","retard","sadist","scank","schlong","screwing","semen","sex","sexy","Sh!t","sh1t","sh1ter","sh1ts","sh1tter","sh1tz","shit","shits","shitter","Shitty","Shity","shitz","Shyt","Shyte","Shytty","Shyty","skanck","skank","skankee","skankey","skanks","Skanky","slag","slut","sluts","Slutty","slutz","son-of-a-bitch","tit","turd","va1jina","vag1na","vagiina","vagina","vaj1na","vajina","vullva","vulva","w0p","wh00r","wh0re","whore","xrated","xxx","b!+ch","bitch","blowjob","clit","arschloch","fuck","shit","ass","asshole","b!tch","b17ch","b1tch","bastard","bi+ch","boiolas","buceta","c0ck","cawk","chink","cipa","clits","cock","cum","cunt","dildo","dirsa","ejakulate","fatass","fcuk","fuk","fux0r","hoer","hore","jism","kawk","l3itch","l3i+ch","lesbian","masturbate","masterbat*","masterbat3","motherfucker","s.o.b.","mofo","nazi","nigga","nigger","nutsack","phuck","pimpis","pusse","pussy","scrotum","sh!t","shemale","shi+","sh!+","slut","smut","teets","tits","boobs","b00bs","teez","testical","testicle","titt","w00se","jackoff","wank","whoar","whore","*damn","*dyke","*fuck*","*shit*","@$$","amcik","andskota","arse*","assrammer","ayir","bi7ch","bitch*","bollock*","breasts","butt-pirate","cabron","cazzo","chraa","chuj","Cock*","cunt*","d4mn","daygo","dego","dick*","dike*","dupa","dziwka","ejackulate","Ekrem*","Ekto","enculer","faen","fag*","fanculo","fanny","feces","feg","Felcher","ficken","fitt*","Flikker","foreskin","Fotze","Fu(*","fuk*","futkretzn","gook","guiena","h0r","h4x0r","hell","helvete","hoer*","honkey","Huevon","hui","injun","jizz","kanker*","kike","klootzak","kraut","knulle","kuk","kuksuger","Kurac","kurwa","kusi*","kyrpa*","lesbo","mamhoon","masturbat*","merd*","mibun","monkleigh","mouliewop","muie","mulkku","muschi","nazis","nepesaurio","nigger*","orospu","paska*","perse","picka","pierdol*","pillu*","pimmel","piss*","pizda","poontsee","poop","porn","p0rn","pr0n","preteen","pula","pule","puta","puto","qahbeh","queef*","rautenberg","schaffer","scheiss*","schlampe","schmuck","screw","sh!t*","sharmuta","sharmute","shipal","shiz","skribz","skurwysyn","sphencter","spic","spierdalaj","splooge","suka","b00b*","testicle*","titt*","twat","vittu","wank*","wetback*","wichser","wop*","yed","zabourah"]}');
-
-/***/ }),
-
-/***/ 2357:
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("assert");;
-
-/***/ }),
-
-/***/ 3129:
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("child_process");;
-
-/***/ }),
-
-/***/ 8614:
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("events");;
-
-/***/ }),
-
-/***/ 5747:
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("fs");;
-
-/***/ }),
-
-/***/ 8605:
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("http");;
-
-/***/ }),
-
-/***/ 7211:
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("https");;
-
-/***/ }),
-
-/***/ 1631:
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("net");;
-
-/***/ }),
-
-/***/ 2087:
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("os");;
-
-/***/ }),
-
-/***/ 5622:
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("path");;
-
-/***/ }),
-
-/***/ 2413:
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("stream");;
-
-/***/ }),
-
-/***/ 4016:
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("tls");;
-
-/***/ }),
-
-/***/ 8835:
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("url");;
-
-/***/ }),
-
-/***/ 1669:
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("util");;
-
-/***/ }),
-
-/***/ 8761:
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("zlib");;
-
-/***/ })
-
-/******/ 	});
-/************************************************************************/
-/******/ 	// The module cache
-/******/ 	var __webpack_module_cache__ = {};
-/******/ 	
-/******/ 	// The require function
-/******/ 	function __nccwpck_require__(moduleId) {
-/******/ 		// Check if module is in cache
-/******/ 		var cachedModule = __webpack_module_cache__[moduleId];
-/******/ 		if (cachedModule !== undefined) {
-/******/ 			return cachedModule.exports;
-/******/ 		}
-/******/ 		// Create a new module (and put it into the cache)
-/******/ 		var module = __webpack_module_cache__[moduleId] = {
-/******/ 			// no module.id needed
-/******/ 			// no module.loaded needed
-/******/ 			exports: {}
-/******/ 		};
-/******/ 	
-/******/ 		// Execute the module function
-/******/ 		var threw = true;
-/******/ 		try {
-/******/ 			__webpack_modules__[moduleId].call(module.exports, module, module.exports, __nccwpck_require__);
-/******/ 			threw = false;
-/******/ 		} finally {
-/******/ 			if(threw) delete __webpack_module_cache__[moduleId];
-/******/ 		}
-/******/ 	
-/******/ 		// Return the exports of the module
-/******/ 		return module.exports;
-/******/ 	}
-/******/ 	
-/************************************************************************/
-/******/ 	/* webpack/runtime/compat get default export */
-/******/ 	(() => {
-/******/ 		// getDefaultExport function for compatibility with non-harmony modules
-/******/ 		__nccwpck_require__.n = (module) => {
-/******/ 			var getter = module && module.__esModule ?
-/******/ 				() => (module['default']) :
-/******/ 				() => (module);
-/******/ 			__nccwpck_require__.d(getter, { a: getter });
-/******/ 			return getter;
-/******/ 		};
-/******/ 	})();
-/******/ 	
-/******/ 	/* webpack/runtime/define property getters */
-/******/ 	(() => {
-/******/ 		// define getter functions for harmony exports
-/******/ 		__nccwpck_require__.d = (exports, definition) => {
-/******/ 			for(var key in definition) {
-/******/ 				if(__nccwpck_require__.o(definition, key) && !__nccwpck_require__.o(exports, key)) {
-/******/ 					Object.defineProperty(exports, key, { enumerable: true, get: definition[key] });
-/******/ 				}
-/******/ 			}
-/******/ 		};
-/******/ 	})();
-/******/ 	
-/******/ 	/* webpack/runtime/hasOwnProperty shorthand */
-/******/ 	(() => {
-/******/ 		__nccwpck_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
-/******/ 	})();
-/******/ 	
-/******/ 	/* webpack/runtime/make namespace object */
-/******/ 	(() => {
-/******/ 		// define __esModule on exports
-/******/ 		__nccwpck_require__.r = (exports) => {
-/******/ 			if(typeof Symbol !== 'undefined' && Symbol.toStringTag) {
-/******/ 				Object.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });
-/******/ 			}
-/******/ 			Object.defineProperty(exports, '__esModule', { value: true });
-/******/ 		};
-/******/ 	})();
-/******/ 	
-/******/ 	/* webpack/runtime/compat */
-/******/ 	
-/*
+module.exports = JSON.parse('{"z":["ahole","anus","ash0le","ash0les","asholes","ass","Ass Monkey","Assface","assh0le","assh0lez","asshole","assholes","assholz","asswipe","azzhole","bassterds","bastard","bastards","bastardz","basterds","basterdz","Biatch","bitch","bitches","Blow Job","boffing","butthole","buttwipe","c0ck","c0cks","c0k","Carpet Muncher","cawk","cawks","Clit","cnts","cntz","cock","cockhead","cock-head","cocks","CockSucker","cock-sucker","crap","cum","cunt","cunts","cuntz","dick","dild0","dild0s","dildo","dildos","dilld0","dilld0s","dominatricks","dominatrics","dominatrix","dyke","enema","f u c k","f u c k e r","fag","fag1t","faget","fagg1t","faggit","faggot","fagg0t","fagit","fags","fagz","faig","faigs","fart","flipping the bird","fuck","fucker","fuckin","fucking","fucks","Fudge Packer","fuk","Fukah","Fuken","fuker","Fukin","Fukk","Fukkah","Fukken","Fukker","Fukkin","g00k","God-damned","h00r","h0ar","h0re","hells","hoar","hoor","hoore","jackoff","jap","japs","jerk-off","jisim","jiss","jizm","jizz","knob","knobs","knobz","kunt","kunts","kuntz","Lezzian","Lipshits","Lipshitz","masochist","masokist","massterbait","masstrbait","masstrbate","masterbaiter","masterbate","masterbates","Motha Fucker","Motha Fuker","Motha Fukkah","Motha Fukker","Mother Fucker","Mother Fukah","Mother Fuker","Mother Fukkah","Mother Fukker","mother-fucker","Mutha Fucker","Mutha Fukah","Mutha Fuker","Mutha Fukkah","Mutha Fukker","n1gr","nastt","nigger;","nigur;","niiger;","niigr;","orafis","orgasim;","orgasm","orgasum","oriface","orifice","orifiss","packi","packie","packy","paki","pakie","paky","pecker","peeenus","peeenusss","peenus","peinus","pen1s","penas","penis","penis-breath","penus","penuus","Phuc","Phuck","Phuk","Phuker","Phukker","polac","polack","pola
