@@ -38,21 +38,21 @@ DISCORD USERNAME HERE (https://discord.gg/thenewboston)
 - OPTIONAL ATTACHMENT HERE
 - OPTIONAL ATTACHMENT HERE
 
-# Milestone Details
+# Minimum Viable Product(MVP) Details
 
-Please include a detailed breakdown of the first milestone including a list of all quantifiable objectives. Upon 
-completion of the milestone, each objective will be reviewed by thenewboston team and once all objectives have been 
+Please include a detailed breakdown of the MVP including a list of all quantifiable objectives. Upon 
+completion of the MVP, each objective will be reviewed by thenewboston team and once all objectives have been 
 verified as completed, coins will then be rewarded.
 
-Note that all future detailed milestone breakdowns will be written as a separate GitHub issue. Only the first milestone 
-is included in this project proposal.
+Note that all future detailed milestone breakdowns will be written as a separate GitHub issue. Only the first 
+milestone which is for MVP is included in this project proposal.
 
 ---
 
-#### First Milestone Description
-SHORT DESCRIPTION OF MILESTONE HERE
+#### MVP Description
+SHORT DESCRIPTION OF MVP HERE
 
-#### First Milestone Objectives
+#### Objectives for MVP
 
 | # | Objective             | How can auditors verify milestone?     |
 | - | --------------------- | -------------------------------------- |
@@ -60,7 +60,7 @@ SHORT DESCRIPTION OF MILESTONE HERE
 | 2 | OBJECTIVE DESCRIPTION | EXPLANATION OF HOW AUDITORS CAN VERIFY |
 | 3 | OBJECTIVE DESCRIPTION | EXPLANATION OF HOW AUDITORS CAN VERIFY |
 
-#### How long do you estimate this first milestone will take to complete?
+#### How long do you estimate for the MVP to complete?
 ANSWER HERE
 
 #### Project Wallet
