@@ -38,7 +38,7 @@ DISCORD USERNAME HERE (https://discord.gg/thenewboston)
 - OPTIONAL ATTACHMENT HERE
 - OPTIONAL ATTACHMENT HERE
 
-# Minimum Viable Product(MVP) Details
+# Milestone 1 - Minimum Viable Product(MVP) Details
 
 Please include a detailed breakdown of the MVP including a list of all quantifiable objectives. Upon 
 completion of the MVP, each objective will be reviewed by thenewboston team and once all objectives have been 
