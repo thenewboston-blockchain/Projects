@@ -1,5 +1,5 @@
 ---
-name: Milestone Payout Request
+name: Payout Request
 about: Submit a request for a milestone payout including all proof of work.
 title: NAME_OF_PROJECT - NAME_OF_MILESTONE - MILESTONE_NUMBER
 labels: Milestone Payout Request
