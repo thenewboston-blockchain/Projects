@@ -38,11 +38,11 @@ DISCORD USERNAME HERE (https://discord.gg/thenewboston)
 - OPTIONAL ATTACHMENT HERE
 - OPTIONAL ATTACHMENT HERE
 
-# Milestone 1 - Minimum Viable Product(MVP) Details
+# Milestone 1 - Minimum Viable Product (MVP) Details
 
 Please include a detailed breakdown of the MVP including a list of all quantifiable objectives. Upon 
 completion of the MVP, each objective will be reviewed by thenewboston team and once all objectives have been 
-verified as completed, coins will then be rewarded.
+verified as completed, amount of coins will be negotiated. 
 
 Note that all future detailed milestone breakdowns will be written as a separate GitHub issue. Only the first 
 milestone which is for MVP is included in this project proposal.
