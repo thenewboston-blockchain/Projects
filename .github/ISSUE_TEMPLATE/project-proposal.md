@@ -32,36 +32,3 @@ ANSWER HERE
 
 #### What is your Discord username?
 DISCORD USERNAME HERE (https://discord.gg/thenewboston)
-
-#### Additional files and documentation including architectural diagrams, wireframes, research documents, visuals, etc… (optional)
-- OPTIONAL ATTACHMENT HERE
-- OPTIONAL ATTACHMENT HERE
-- OPTIONAL ATTACHMENT HERE
-
-# Milestone 1 - Minimum Viable Product (MVP) Details
-
-Please include a detailed breakdown of the MVP including a list of all quantifiable objectives. Upon 
-completion of the MVP, each objective will be reviewed by thenewboston team and once all objectives have been 
-verified as completed, amount of coins will be negotiated. 
-
-Note that all future detailed milestone breakdowns will be written as a separate GitHub issue. Only the first 
-milestone which is for MVP is included in this project proposal.
-
----
-
-#### MVP Description
-SHORT DESCRIPTION OF MVP HERE
-
-#### Objectives for MVP
-
-| # | Objective             | How can auditors verify milestone?     |
-| - | --------------------- | -------------------------------------- |
-| 1 | OBJECTIVE DESCRIPTION | EXPLANATION OF HOW AUDITORS CAN VERIFY |
-| 2 | OBJECTIVE DESCRIPTION | EXPLANATION OF HOW AUDITORS CAN VERIFY |
-| 3 | OBJECTIVE DESCRIPTION | EXPLANATION OF HOW AUDITORS CAN VERIFY |
-
-#### How long do you estimate for the MVP to complete?
-ANSWER HERE
-
-#### Project Wallet
-PROJECT WALLET ACCOUNT NUMBER HERE
